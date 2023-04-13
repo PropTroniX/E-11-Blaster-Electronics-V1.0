@@ -50,7 +50,7 @@ YouTube Video - [Star Wars 3D Printed E-11 Blaster with Electronics](https://you
 
 2 x [6x6x7mm Tactile Momentary Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6x6x7mm Tactile Momentary Switch") - Weapon Select & Laser On/Off Switches
 
-1 x [6x4mm Momentary Tactile Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6x4mm Momentary Tactile Switch") - Hengstler Blaster Reload Switch
+1 x [6x4mm Momentary Tactile Switch](https://proptronix.co.uk/other_components/switches/6x4x5-mm-tactile-switch "6x4mm Momentary Tactile Switch") - Hengstler Blaster Reload Switch
 
 1 x [Magnetic Reed Switch](https://proptronix.co.uk/other_components/switches/magnetic-reed-switch "Magnetic Reed Switch") - Magazine Out Detection Switch (Requires a Magnet to Work)
 

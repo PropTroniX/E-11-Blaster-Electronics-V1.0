@@ -5,15 +5,15 @@
 
 ##### *Table of Contents*
 
-- [Arduino E-11 Blaster Electronics:](#arduino-e-11-blaster-electronics-)
-- [Video of the Full Version Electronics:](#video-of-the-full-version-electronics-)
-- [Parts Required:](#parts-required-)
-- [Software Required:](#software-required-)
-- [Wiring Schematics:](#wiring-schematics-)
-- [Programming Instructions:](#programming-instructions-)
-- [SD-Card Sound Files:](#sd-card-sound-files-)
-- [Licence:](#licence-)
-- [Donation Button:](#donation-button-)
+- [Arduino E-11 Blaster Electronics](#arduino-e-11-blaster-electronics)
+- [Video of the Full Version Electronics](#video-of-the-full-version-electronics)
+- [Parts Required](#parts-required)
+- [Software Required](#software-required)
+- [Wiring Schematics](#wiring-schematics)
+- [Programming Instructions](#programming-instructions)
+- [SD-Card Sound Files](#sd-card-sound-files)
+- [Licence](#licence)
+- [Donation Button](#donation-button)
 
 ### Arduino E-11 Blaster Electronics:
 

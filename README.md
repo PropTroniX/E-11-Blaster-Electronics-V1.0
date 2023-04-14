@@ -127,7 +127,11 @@ BLTroniX V1.0 Arduino E-11 Blaster Code:
 
 ###  Programming Instructions:
 
-1. Copy the Three Included Libraries (BLTroniX_Mini_Mp3, Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
+1. Copy the Three Included Libraries:\
+BLTroniX_Mini_Mp3,\
+Adafruit_GFX_Library,\
+Adafruit_SSD1306-master_64x32),\
+into your Arduino Libraries Folder.
 
 2. Run the Arduino IDE Application
 

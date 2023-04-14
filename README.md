@@ -64,6 +64,8 @@ Insert Magazine - Insert Magazine Sound Effect Played, Blaster Ready to Fire
 
 ###  Parts Required:
 
+1 x Set of 3D STLFiles  - For 3D Printing the E-11 Blaster (Included FREE in the Download)
+
 1 x [Arduino Nano V3](https://proptronix.co.uk/arduino_components/microcontrollers/arduino-nano-v3-0 "Arduino Nano V3") - Atmel Atmega328P-AU MCU
 
 1 x [DFPlayer Mini MP3](https://proptronix.co.uk/arduino_components/audio_components/dfplayer_mini_mp3 "DFPlayer Mini MP3") - Requires 1 x 1K Resistors for TX Connection to Arduino Nano

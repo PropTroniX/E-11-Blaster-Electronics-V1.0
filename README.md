@@ -167,8 +167,10 @@ Please  format your Micro SD-Card with the [SD Card Formatter App](https://www.s
 
 ### 3D Print STL Files:
 The download also includes a set of E-11 Blaster 3D Printable STL Files.
-These are the Free Files that are avaiable from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert.
+These are the Free Files that are available from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert.
 I re-designed some of the parts for the Electronics to fit.
+
+You can use the included E-11 Blaster Build Instructions provided by Raymond Hebert for his E-11 Blaster Build to help build the included E-11 Blaster 3D Printer STL Files.
 
 ![](https://GalacticProps.co.uk/GitHub/E-11_Blaster/GitHub_Trigger_Switches.jpg)
 

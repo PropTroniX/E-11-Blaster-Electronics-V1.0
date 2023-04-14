@@ -7,6 +7,7 @@
 
 - [Arduino E-11 Blaster Electronics](#arduino-e-11-blaster-electronics)
 - [Video of the Full Version Electronics](#video-of-the-full-version-electronics)
+- [Electronics Functions](#electronics-functions)
 - [Parts Required](#parts-required)
 - [Software Required](#software-required)
 - [Wiring Schematics](#wiring-schematics)
@@ -19,7 +20,7 @@
 
 Arduino code for a Star Wars E-11 Blaster. 
 This is aa Arduino Project to add lights and sounds to your E-11 Blaster. (Normal Blaster & Stun Blaster)
-Relativly easy to build for someone with basic soldering skills using cheap and readily available components.
+Relatively easy to build for someone with basic soldering skills using cheap and readily available components.
 You can purchase the E-11 Blaster 3D STL files which I designed especially to hold these electronics from my online store - [PropTroniX](https://proptronix.co.uk/prop_stl_files/e-11-blaster-stl-files "PropTroniX")
 
 ![](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_1.png)
@@ -29,6 +30,36 @@ You can purchase the E-11 Blaster 3D STL files which I designed especially to ho
 Check out my Video of a 3D Printed Prototype with the Electronics Installed
 
 YouTube Video - [Star Wars 3D Printed E-11 Blaster with Electronics](https://youtu.be/4NYTuRMlmhI "Star Wars 3D Printed E-11 Blaster with Electronics")
+
+###  Electronics Functions:
+**1. Select Button:**
+Single Press Changes between the Normal Blaster & Stun Blaster with Sound Effect.\
+Long Press plays the Radio Mode Sound File.
+
+***OLED Display:*** Show the Current Selected Weapon or Radio Mode on Long Press
+
+**2. Trigger Switch:**
+Blaster Mode - Plays One of 7 Random Blaster Sound Effects with Barrel & Muzzle LED's\
+Stun Mode - Plays the Stun Blaster Sound Effect with Barrel & Muzzle LED's
+
+***OLED Display:***Display Current Weapon and Remaining Ammo. No Ammo Blaster Will NOT Fire
+
+**3. Reload Button:**
+Single Press Recharges the Blaster Ammo with Sound Effect
+
+***OLED Display:*** Shows Recharging Ammo Bar-graph
+
+**4. Laser Button:**
+Press Once to Turn the LED Red Dot Laser On\
+Press again to Turn the LED Red Dot Laser Off
+
+***OLED Display:*** Displays Laser Activated or Laser Deactivated
+
+**5. Magazine Switch:**
+If Magazine NOT Inserted Blaster will NOT Fire and Weapon Error Voice Sound will Play.\
+Insert Magazine - Insert Magazine Sound Effect Played, Blaster Ready to Fire
+
+***OLED Display:*** Shows Weapon Error or Normal Operating Screen when Magazine Inserted.
 
 ###  Parts Required:
 
@@ -46,7 +77,7 @@ YouTube Video - [Star Wars 3D Printed E-11 Blaster with Electronics](https://you
 
 1 x [Red Laser Dot Diode](https://proptronix.co.uk/arduino_components/leds/red-dot-laser-diode-led "Red Laser Dot Diode") - 650nm 6mm 3V-5V (Optional)
 
-1 x [Mini Micro Lever Switc](https://proptronix.co.uk/other_components/switches/micro-limit-lever-switch " Mini Micro Lever Switc") - Micro Lever Switch for Trigger
+1 x [Mini Micro Lever Switch](https://proptronix.co.uk/other_components/switches/micro-limit-lever-switch " Mini Micro Lever Switch") - Micro Lever Switch for Trigger
 
 2 x [6x6x7mm Tactile Momentary Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6x6x7mm Tactile Momentary Switch") - Weapon Select & Laser On/Off Switches
 
@@ -60,7 +91,7 @@ YouTube Video - [Star Wars 3D Printed E-11 Blaster with Electronics](https://you
 
 1 x [TP4056 Battery Charge Board](https://proptronix.co.uk/other_components/battery_circuit_boards/usb-battery-charger-tp4056 "TP4056 Battery Charge Board") - For Charging the 3.7V 18650 Battery
 
-5 x [10K Ω Resistor](https://proptronix.co.uk/other_components/resistors/1-4w-carbon-film-resistors "10K Ω Resistor") - Trigger, Reoad, Select, Laser & Magazine Switches
+5 x [10K Ω Resistor](https://proptronix.co.uk/other_components/resistors/1-4w-carbon-film-resistors "10K Ω Resistor") - Trigger, Reload, Select, Laser & Magazine Switches
 
 1 x [1K Ω Resistor](https://proptronix.co.uk/other_components/resistors/1-4w-carbon-film-resistors "1K Ω Resistor") - Needed between DFPlayer RX & Arduino Nano TX
 
@@ -93,11 +124,11 @@ BLTroniX V1.0 Arduino E-11 Blaster Code:
 
 ###  Programming Instructions:
 
-1. Copy the Three Included Libraies (BLTroniX_Mini_Mp3, Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
+1. Copy the Three Included Libraries (BLTroniX_Mini_Mp3, Adafruit_GFX_Library & Adafruit_SSD1306-master_64x32) into your Arduino Libraries Folder.
 
 2. Run the Arduino IDE Application
 
-3. File Open and locate the Arduino_E-11-V1.0 Dircectory and open the Load the Arduino_E-11-V1.0.ino file.
+3. File Open and locate the Arduino_E-11-V1.0 Directory and open the Load the Arduino_E-11-V1.0.ino file.
 
 4. Under Tools Select Board then Arduino Nano
 
@@ -111,7 +142,7 @@ You should now have a functioning E-11 Blaster with Lights and Sounds
 
 ### SD-Card Sound Files:
 
-- Weapon Initalising - Voice Sound - "Please Wait Weapon Systems Initialising"
+- Weapon Initialising - Voice Sound - "Please Wait Weapon Systems Initialising"
 - Fully Operational - Voice Sound File - "Your BlasTech Weapon is Fully Operational"
 - Reload Sound - Sound Effect
 - Change Weapon - Sound Effect
@@ -124,9 +155,9 @@ You should now have a functioning E-11 Blaster with Lights and Sounds
 - Magazine Loaded Sound - Sound Effect
 - No Magazine Sound - Voice Sound - "Warning Weapon Error"
 - Laser Sight On - Voice Sound File - "Laser Sight Activated"
-- Laser Signt Off - Voice Sound File - "Laser Sight Deactivated"
+- Laser Sight Off - Voice Sound File - "Laser Sight Deactivated"
 
-All sound files are stored in a folder named mp3 which is transfered to the Micro SD-Card.
+All sound files are stored in a folder named mp3 which is transferred to the Micro SD-Card.
 
 ***Important**:*
 Please  format your Micro SD-Card with the [SD Card Formatter App](https://www.sdcard.org/downloads/formatter/ "SD Card Formatter App")
@@ -138,4 +169,4 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 
 ### Donation Button:
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to doante a cup of coffee if you find this code useful. Thank You
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PEK9F5JV4Q6NL) Please feel free to donate a cup of coffee if you find this code useful. Thank You

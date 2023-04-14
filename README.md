@@ -13,6 +13,7 @@
 - [Wiring Schematics](#wiring-schematics)
 - [Programming Instructions](#programming-instructions)
 - [SD-Card Sound Files](#sd-card-sound-files)
+-[3D Print STL Files](#3d-print-stl-files)
 - [Licence](#licence)
 - [Donation Button](#donation-button)
 
@@ -161,6 +162,13 @@ All sound files are stored in a folder named mp3 which is transferred to the Mic
 
 ***Important**:*
 Please  format your Micro SD-Card with the [SD Card Formatter App](https://www.sdcard.org/downloads/formatter/ "SD Card Formatter App")
+
+### 3D Print STL Files:
+The download also includes a set of E-11 Blaster 3D Printable STL Files.
+These are the Free Files that are avaiable from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert.
+I re-designed some of the parts for the Electronics to fit.
+
+![](https://GalacticProps.co.uk/GitHub/E-11_Blaster/GitHub_Trigger_Switches.jpg)
 
 ###  Licence:
 

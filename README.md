@@ -135,7 +135,7 @@ into your Arduino Libraries Folder.
 
 2. Run the Arduino IDE Application
 
-3. File Open and locate the Arduino_E-11-V1.0 Directory and open the Load the Arduino_E-11-V1.0.ino file.
+3. Go to File then Open and locate the Arduino_E-11-V1.0 Directory and Load the Arduino_E-11-V1.0.ino file.
 
 4. Under Tools Select Board then Arduino Nano
 

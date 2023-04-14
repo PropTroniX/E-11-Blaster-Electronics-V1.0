@@ -83,6 +83,10 @@ Arduino Libraries Needed:
 - BLTroniX16pt7b Font - Included in the Download and pre loaded in Adafruit GFX Fonts
 - Orbitron_Light8pt7b Font - Included in the Download and pre loaded in Adafruit GFX Fonts
 
+BLTroniX V1.0 Arduino E-11 Blaster Code:
+
+- Arduino_E-11-V1.0.ino - Included in the Download
+
 ###  Wiring Schematics:
 
 [![Wiring Schematics](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics.png "Wiring Schematics")](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics.png "Wiring Schematics")

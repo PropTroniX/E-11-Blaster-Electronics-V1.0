@@ -13,7 +13,7 @@
 - [Wiring Schematics](#wiring-schematics)
 - [Programming Instructions](#programming-instructions)
 - [SD-Card Sound Files](#sd-card-sound-files)
--[3D Print STL Files](#3d-print-stl-files)
+- [3D Print STL Files](#3d-print-stl-files)
 - [Licence](#licence)
 - [Donation Button](#donation-button)
 

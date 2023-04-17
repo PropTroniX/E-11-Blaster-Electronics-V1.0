@@ -1,4 +1,4 @@
-![](https://GalacticProps.co.uk/GitHub/Blaster_Scope/GitHub_Logo.jpg)
+![](https://GalacticProps.co.uk/GitHub/GitHub_Logo.jpg)
 
 
 ------------

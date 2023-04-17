@@ -22,7 +22,8 @@
 Arduino code for a Star Wars E-11 Blaster. 
 This is aa Arduino Project to add lights and sounds to your E-11 Blaster. (Normal Blaster & Stun Blaster)
 Relatively easy to build for someone with basic soldering skills using cheap and readily available components.
-You can purchase the E-11 Blaster 3D STL files which I designed especially to hold these electronics from my online store - [PropTroniX](https://proptronix.co.uk/prop_stl_files/e-11-blaster-stl-files "PropTroniX")
+
+If your looking for more functions and STL files that better represent a true Sterling Machine Gun then consider having a look at my E-11 Blaster V2 Kit  - [E-11 Blaster Electronics Kit V2](https://proptronix.co.uk/prop-electronics/e-11-blaster-electronics-kit-v2 "PropTroniX")
 
 ![](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_1.png)
 
@@ -135,7 +136,7 @@ into your Arduino Libraries Folder.
 
 2. Run the Arduino IDE Application
 
-3. Go to File then Open and locate the Arduino_E-11-V1.0 Directory and Load the Arduino_E-11-V1.0.ino file.
+3. File Open and locate the Arduino_E-11-V1.0 Directory and open the Load the Arduino_E-11-V1.0.ino file.
 
 4. Under Tools Select Board then Arduino Nano
 
@@ -171,8 +172,7 @@ Please  format your Micro SD-Card with the [SD Card Formatter App](https://www.s
 
 ### 3D Print STL Files:
 The download also includes a set of E-11 Blaster 3D Printable STL Files.
-These are the Free Files that are available from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert.
-I re-designed some of the parts for the Electronics to fit.
+Some of the parts have ben modified from the Free Files that are available from [My Mini Factory](https://www.myminifactory.com/object/3d-print-star-wars-storm-trooper-blastech-e-11-blaster-rifle-by-blaster-master-72283 "My Mini Factory") by Raymond Hebert. to hold the Electronics but not all parts so some modifications will still need to be made.
 
 You can use the included E-11 Blaster Build Instructions provided by Raymond Hebert for his E-11 Blaster Build to help build the included E-11 Blaster 3D Printer STL Files.
 

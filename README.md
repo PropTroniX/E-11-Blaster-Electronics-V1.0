@@ -140,7 +140,7 @@ into your Arduino Libraries Folder.
 
 4. Select Tools: Select: and Board and select Arduino Nano
 
-5. Select Tools: PORT: and Select the COM Port your Arduino Nano board is plugged in to.
+5. Select Tools: Port: and Select the COM Port your Arduino Nano board is plugged in to.
 
 6. Select Tools: Programmer: and choose AVRISP mkII.
 

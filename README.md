@@ -138,9 +138,9 @@ into your Arduino Libraries Folder.
 
 3. File Open and locate the Arduino_E-11-V1.0 Directory and open the Load the Arduino_E-11-V1.0.ino file.
 
-4. Under Tools Select Board then Arduino Nano
+4. Select Tools: Select: and Board and select Arduino Nano
 
-5. Select Tools: PORT and Select the COM Port your Arduino Nano board is plugged in to.
+5. Select Tools: PORT: and Select the COM Port your Arduino Nano board is plugged in to.
 
 6. Select Tools: Programmer: and choose AVRISP mkII.
 

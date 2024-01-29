@@ -61,6 +61,9 @@ Press again to Turn the LED Red Dot Laser Off
 If Magazine NOT Inserted Blaster will NOT Fire and Weapon Error Voice Sound will Play.\
 Insert Magazine - Insert Magazine Sound Effect Played, Blaster Ready to Fire
 
+If you don't want to use Magazine Detection use the Arduino-E-11-V1.0-NO_MAG Code and 
+don't add the connections to the Arduino Nano.
+
 ***OLED Display:*** Shows Weapon Error or Normal Operating Screen when Magazine Inserted.
 
 ###  Parts Required:

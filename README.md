@@ -23,8 +23,7 @@ Arduino code for a Star Wars E-11 Blaster. 
 This is aa Arduino Project to add lights and sounds to your E-11 Blaster. (Normal Blaster & Stun Blaster)
 Relatively easy to build for someone with basic soldering skills using cheap and readily available components.
 
-If your looking for more functions and STL files that better represent a true Sterling Machine Gun then consider having a look at my - [E-11 Blaster Electronics Kit V2]([[https://proptronix.co.uk/prop-electronics/e-11-blaster-electronics-kit-v2](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit)](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit) "E-11 Blaster Electronics Kit V2")
-
+If your looking for more functions and STL files that better represent a true Sterling Machine Gun then consider having a look at my - [E-11 Blaster Electronics Kit V2](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit "E-11 Blaster Electronics Kit V2")
 
 ![](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_1.png)
 
@@ -61,9 +60,6 @@ Press again to Turn the LED Red Dot Laser Off
 **5. Magazine Switch:**
 If Magazine NOT Inserted Blaster will NOT Fire and Weapon Error Voice Sound will Play.\
 Insert Magazine - Insert Magazine Sound Effect Played, Blaster Ready to Fire
-
-If you don't want to use Magazine Detection use the Arduino-E-11-V1.0-NO_MAG Code and 
-don't add the connections to the Arduino Nano.
 
 ***OLED Display:*** Shows Weapon Error or Normal Operating Screen when Magazine Inserted.
 
@@ -122,7 +118,7 @@ Arduino Libraries Needed:
 - BLTroniX16pt7b Font - Included in the Download and pre loaded in Adafruit GFX Fonts
 - Orbitron_Light8pt7b Font - Included in the Download and pre loaded in Adafruit GFX Fonts
 
-BLTroniX V1.0 Arduino E-11 Blaster Code: 
+BLTroniX V1.0 Arduino E-11 Blaster Code:
 
 - Arduino_E-11-V1.0.ino - Included in the Download
 

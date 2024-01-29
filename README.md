@@ -23,7 +23,8 @@ Arduino code for a Star Wars E-11 Blaster. 
 This is aa Arduino Project to add lights and sounds to your E-11 Blaster. (Normal Blaster & Stun Blaster)
 Relatively easy to build for someone with basic soldering skills using cheap and readily available components.
 
-If your looking for more functions and STL files that better represent a true Sterling Machine Gun then consider having a look at my - [E-11 Blaster Electronics Kit V2](https://proptronix.co.uk/prop-electronics/e-11-blaster-electronics-kit-v2 "E-11 Blaster Electronics Kit V2")
+If your looking for more functions and STL files that better represent a true Sterling Machine Gun then consider having a look at my - [E-11 Blaster Electronics Kit V2]([https://proptronix.co.uk/prop-electronics/e-11-blaster-electronics-kit-v2](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit) "E-11 Blaster Electronics Kit V2")
+
 
 ![](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_1.png)
 

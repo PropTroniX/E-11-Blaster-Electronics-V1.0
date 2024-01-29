@@ -101,7 +101,7 @@ Insert Magazine - Insert Magazine Sound Effect Played, Blaster Ready to Fire
 
 All parts listed above are available from my [Online Shop](https://proptronix.co.uk "Online Shop") , eBay, Amazon or AliExpress.
 
-I also sell the updated [E-11 Blaster Electronics Kit V2.0](https://proptronix.co.uk/prop-electronics/e-11-blaster-electronics-kit-v2 "E-11 Blaster Electronics Kit V2.0") as a Self Build or Pre-Built Kit in my Shop. It has more weapons with improved code and also utilises a PCB Board to make construction and installation much easier.
+I also sell the updated [E-11 Blaster Electronics Kit V2.0](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit "E-11 Blaster Electronics Kit V2.0") as a Self Build or Pre-Built Kit in my Shop. It has more weapons with improved code and also utilises a PCB Board to make construction and installation much easier.
 
 The Kits also include my E-11 Blaster STL Files especially designed for the electronics.
 

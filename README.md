@@ -127,7 +127,7 @@ BLTroniX V1.0 Arduino E-11 Blaster Code:
 
 ###  Wiring Schematics:
 
-[![Wiring Schematics](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics.png "Wiring Schematics")](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics.png "Wiring Schematics")
+[![Wiring Schematics](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics1.png "Wiring Schematics")](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics1.png "Wiring Schematics")
 
 ###  Programming Instructions:
 

@@ -161,7 +161,7 @@ You should now have a functioning E-11 Blaster with Lights and Sounds
 - Magazine Loaded Sound - Sound Effect
 - No Magazine Sound - Voice Sound - "Warning Weapon Error"
 - Laser Sight/Scope On - Voice Sound File - "Laser Sight Activated"/"Scope Activated"
-- Laser Sight/Scope Off - Voice Sound File - "Laser Sight Deactivated"/Scope Deactivated"
+- Laser Sight/Scope Off - Voice Sound File - "Laser Sight Deactivated"/"Scope Deactivated"
 
 All sound files are stored in a folder named mp3 which is transferred to the Micro SD-Card.
 

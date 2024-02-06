@@ -65,8 +65,8 @@ const int buttonPin = 8;            // selector button
 const int buttonPinReload = 7;      // reload button
 const int buttonPinFire = 9;        // trigger button
 
-const int laseronPin = 5;           // laser button
-const int laseroffPin = 4;          // laser led power
+const int laseronPin = 5;           // laser/scope button
+const int laseroffPin = 4;          // laser led/scope power
 
 int magInState;                      // Magazine State
 
@@ -169,7 +169,7 @@ void loop() {
 }
 
 void main_code() {
-  // Start of Laser Sight
+  // Start of Laser Sight/Scope
   stateLaser = digitalRead(laseronPin);
   if (stateLaser == HIGH && previousLaser == LOW && millis() - time > debounce) {
     if (stateLaseroffPin == HIGH) {
@@ -201,7 +201,7 @@ void main_code() {
   }
   digitalWrite(laseroffPin, stateLaseroffPin);
   previousLaser == stateLaser;
-  // End of Laser Sight
+  // End of Laser Sight/Scope
 
   // Start of Select Button
   buttonState = digitalRead(buttonPin);

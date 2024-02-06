@@ -1,0 +1,11 @@
+Scope Sounds Instructions
+
+If you are installing the Scope in your Blaster and want to Activate (Turn On/Off) with a button.
+
+1. Replace the 2 sounds in this folder 0042_Scope_Activated.mp3 and 0043_Scope_Deactivated.mp3 with the two sounds in the mp3 folder 0042_Laser_Sight_Activated.mp3 and 0043_Laser_Sight_Deactivated.mp3
+
+2. Make a directory on the SD-Card called mp3
+
+3. Copy all the files in number order to the SD-Card. (VERY IMPORTANT)
+
+The Laser On/Off Button will now turn the Scope On/Off with the correct sounds. There will be be no sounds for the Laser as this will now be activated by a Button on the Scope.

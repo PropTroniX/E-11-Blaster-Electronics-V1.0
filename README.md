@@ -103,6 +103,10 @@ All parts listed above are available from my [Online Shop](https://proptronix.co
 
 I also sell the updated [E-11 Blaster Electronics Kit V2.0](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit "E-11 Blaster Electronics Kit V2.0") as a Self Build or Pre-Built Kit in my Shop. It has more weapons with improved code and also utilises a PCB Board to make construction and installation much easier.
 
+***Optional Blaster PCB:*** Makes the installation a lot easier and more compact
+
+[E-11 BLTroniX PCB V2.0](https://proptronix.co.uk/prop-components/e-11_blaster_components/e-11-bltronix-pcb-v2-0 "E-11 BLTroniX PCB V2.0")
+
 ###  Software Required:
 
 You will need the following Software & Libraries to install and setup the E-11 Blaster Arduino Code on the Arduino Nano V3.

@@ -17,6 +17,10 @@
 #include <Fonts/BLTroniX16pt7b.h>
 #include <Fonts/Orbitron_Light8pt7b.h>
 
+// Choose Microcontroller
+#define ARDUINO_NANO true         //Un-Comment if Using the Arduino Nano Board
+//#define ARDUINO_NANO_EVERY true   //Un-Comment if Using the Arduino Nano Every Board
+
 #define STRIP_PIN 3
 #define N_LEDS 25  // Set Number of Pixels
 
@@ -118,8 +122,21 @@ void setup() {
 
   display.begin(SSD1306_SWITCHCAPVCC, 0x3c);
   display.clearDisplay();
-  Serial.begin(9600);
-  mp3_set_serial (Serial);
+
+  #ifdef ARDUINO_NANO
+  {
+  Serial.begin(9600);        //Arduino Nano 
+  mp3_set_serial (Serial);   //Arduino Nano  
+  }
+  #endif
+   
+  #ifdef ARDUINO_NANO_EVERY
+  {  
+  Serial1.begin(9600);        //Arduino Nano Every
+  mp3_set_serial (Serial1);   //Arduino Nano Every 
+  }
+  #endif
+   
   delay(20);
   mp3_reset();
   mp3_set_volume (30);

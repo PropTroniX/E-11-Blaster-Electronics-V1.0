@@ -25,7 +25,7 @@ Relatively easy to build for someone with basic soldering skills using cheap an
 
 If your looking for more functions and STL files that better represent a true Sterling Machine Gun then consider having a look at my - [E-11 Blaster Electronics Kit V2](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit "E-11 Blaster Electronics Kit V2")
 
-![](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_1.png)
+![](https://proptronix.co.uk/GitHub/E-11_Blaster/GitHub_E-11_1.png)
 
 ### Video of the Full Version Electronics:
 
@@ -67,45 +67,42 @@ Insert Magazine - Insert Magazine Sound Effect Played, Blaster Ready to Fire
 
 1 x Set of 3D STLFiles  - For 3D Printing the E-11 Blaster (Included FREE in the Download)
 
-1 x [Arduino Nano V3](https://proptronix.co.uk/arduino_components/microcontrollers/arduino-nano-v3-0 "Arduino Nano V3") - Atmel Atmega328P-AU MCU
+1 x [Arduino Nano V3] - Atmel Atmega328P-AU MCU
 
-1 x [DFPlayer Mini MP3](https://proptronix.co.uk/arduino_components/audio_components/dfplayer_mini_mp3 "DFPlayer Mini MP3") - Requires 1 x 1K Resistors for TX Connection to Arduino Nano
+1 x [DFPlayer Mini MP3] - Requires 1 x 1K Resistors for TX Connection to Arduino Nano
 
-1 x [Micro SD-Card](https://proptronix.co.uk/arduino_components/audio_components/4gb-micro-sd-card "Micro SD-Card") - 2GB or 4GB
+1 x [Micro SD-Card] - 2GB or 4GB
 
-1 x [PAM8403 Amplifier](https://proptronix.co.uk/arduino_components/audio_components/pam8403-class-d-amplifier "PAM8403 Amplifier") - Class D Amplifier 2 x 3W
+1 x [PAM8403 Amplifier] - Class D Amplifier 2 x 3W
 
-1 x [3W 4Ω Speaker](https://proptronix.co.uk/arduino_components/speakers/3w-4-ohm-speaker-with-lead "3W 4Ω Speaker") - Any 3W 4Ω Speaker that will fit inside the Magazine.
+1 x [3W 4Ω Speaker] - Any 3W 4Ω Speaker that will fit inside the Magazine.
 
-1 x [0.91 OLED Display](https://proptronix.co.uk/arduino_components/oled_displays/0-91-oled-display "0.91 OLED Display") - White OLED Screen Module SSD1306 Drive IC 128x32 IIC Interface
+1 x [0.91 OLED Display] - White OLED Screen Module SSD1306 Drive IC 128x32 IIC Interface
 
-1 x [Red Laser Dot Diode](https://proptronix.co.uk/arduino_components/leds/red-dot-laser-diode-led "Red Laser Dot Diode") - 650nm 6mm 3V-5V (Optional)
+1 x [Red Laser Dot Diode] - 650nm 6mm 3V-5V (Optional)
 
-1 x [Mini Micro Lever Switch](https://proptronix.co.uk/other_components/switches/micro-limit-lever-switch " Mini Micro Lever Switch") - Micro Lever Switch for Trigger
+1 x [Mini Micro Lever Switch] - Micro Lever Switch for Trigger
 
-2 x [6x6x7mm Tactile Momentary Switch](https://proptronix.co.uk/other_components/switches/6mm-tactile-switch "6x6x7mm Tactile Momentary Switch") - Weapon Select & Laser On/Off Switches
+2 x [6x6x7mm Tactile Momentary Switch] - Weapon Select & Laser On/Off Switches
 
-1 x [6x4mm Momentary Tactile Switch](https://proptronix.co.uk/other_components/switches/6x4x5-mm-tactile-switch "6x4mm Momentary Tactile Switch") - Hengstler Blaster Reload Switch
+1 x [6x4mm Momentary Tactile Switch] - Hengstler Blaster Reload Switch
 
-1 x [Magnetic Reed Switch](https://proptronix.co.uk/other_components/switches/magnetic-reed-switch "Magnetic Reed Switch") - Magazine Out Detection Switch (Requires a Magnet to Work)
+1 x [Magnetic Reed Switch] - Magazine Out Detection Switch (Requires a Magnet to Work)
 
-1 x [Single WS2812B LED](https://proptronix.co.uk/arduino_components/leds/single-rgb-neopixel-led "Single WS2812B LED") - Fire LED
+1 x [Single WS2812B LED] - Fire LED
 
-1 x [Strip of 24 WS2912B LEDs](https://proptronix.co.uk/arduino_components/leds/e-11-blaster-neopixel-strip "Strip of 24 WS2912B LEDs") - Barrel LED's
+1 x [Strip of 24 WS2912B LEDs] - Barrel LED's
 
-1 x [TP4056 Battery Charge Board](https://proptronix.co.uk/other_components/battery_circuit_boards/usb-battery-charger-tp4056 "TP4056 Battery Charge Board") - For Charging the 3.7V 18650 Battery
+1 x [TP4056 Battery Charge Board] - For Charging the 3.7V 18650 Battery
 
-5 x [10K Ω Resistor](https://proptronix.co.uk/other_components/resistors/1-4w-carbon-film-resistors "10K Ω Resistor") - Trigger, Reload, Select, Laser & Magazine Switches
+5 x [10K Ω Resistor] - Trigger, Reload, Select, Laser & Magazine Switches
 
-1 x [1K Ω Resistor](https://proptronix.co.uk/other_components/resistors/1-4w-carbon-film-resistors "1K Ω Resistor") - Needed between DFPlayer RX & Arduino Nano TX
+1 x [1K Ω Resistor] - Needed between DFPlayer RX & Arduino Nano TX
 
 All parts listed above are available from my [Online Shop](https://proptronix.co.uk "Online Shop") , eBay, Amazon or AliExpress.
 
-I also sell the updated [E-11 Blaster Electronics Kit V2.0](https://proptronix.co.uk/prop-electronics/e-11-stormtrooper-blaster-rifle-electronics-kit "E-11 Blaster Electronics Kit V2.0") as a Self Build or Pre-Built Kit in my Shop. It has more weapons with improved code and also utilises a PCB Board to make construction and installation much easier.
+I also sell the updated [E-11 Blaster Electronics Kit V2.0] as a Self Build in my Shop. It has more weapons with improved code and also utilises a PCB Board to make construction and installation much easier.
 
-***Optional Blaster PCB:*** Makes the installation a lot easier and more compact
-
-[E-11 BLTroniX PCB V2.0](https://proptronix.co.uk/prop-components/e-11_blaster_components/e-11-bltronix-pcb-v2-0 "E-11 BLTroniX PCB V2.0")
 
 ###  Software Required:
 
@@ -126,7 +123,7 @@ BLTroniX V1.0 Arduino E-11 Blaster Code:
 
 ###  Wiring Schematics:
 
-[![Wiring Schematics](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics1.png "Wiring Schematics")](https://www.galacticprops.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics1.png "Wiring Schematics")
+[![Wiring Schematics](https://proptronix.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics1.png "Wiring Schematics")](https://proptronix.co.uk/GitHub/E-11_Blaster/GitHub_E-11_Schematics1.png "Wiring Schematics")
 
 ###  Programming Instructions:
 
@@ -178,7 +175,7 @@ Some of the parts have ben modified from the Free Files that are available from 
 
 You can use the included E-11 Blaster Build Instructions provided by Raymond Hebert for his E-11 Blaster Build to help build the included E-11 Blaster 3D Printer STL Files.
 
-![](https://GalacticProps.co.uk/GitHub/E-11_Blaster/GitHub_Trigger_Switches.jpg)
+![](https://proptronicx.co.uk/GitHub/E-11_Blaster/GitHub_Trigger_Switches.jpg)
 
 ###  Licence:
 
